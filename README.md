@@ -18,6 +18,11 @@ This script has only been tested on Manjaro on the MacBook Air, but I am pretty 
 
 ```kbdlight``` *(Available on the [AUR](https://aur.archlinux.org/packages/kbdlight/))*
 
+## Usage
+Just run the python script and let the magic happen ✨
+```console
+$ python3 mbkv.py
+```
 
 ## TODO
 I need to make the script more *sensitive*? At the moment, it only has three levels so, sometimes the lights are at maximum for [a long time at the same brightness](https://youtu.be/esSRsTjA4s0?t=41)
