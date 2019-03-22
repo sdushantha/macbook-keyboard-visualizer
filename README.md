@@ -1,2 +1,2 @@
-# macbook-keyboard-visualizer
-🔆 
+# MacBook Keyboard Visualizer
+
